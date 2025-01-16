@@ -14,14 +14,14 @@
 - 컬러 이미지에서 마우스로 클릭을 하면 해당 지점의 depth값 표시
 - 사람 및 무기, 위험 인물에 대한 바운딩 박스와 라벨링 표시
 
-[사용 모델]
-사람 객체 : yolov8n.pt
-사람 포즈 : yolov8n-pose.pt
-망치 : best_hammer.pt
-칼 : best_knife.pt
-총 : best_gun.pt
-배트 : best_bet.pt
-도끼 : best_axe.pt
+[사용 모델] </br>
+사람 객체 : yolov8n.pt </br>
+사람 포즈 : yolov8n-pose.pt </br>
+망치 : best_hammer.pt </br>
+칼 : best_knife.pt </br>
+총 : best_gun.pt </br>
+배트 : best_bet.pt </br>
+도끼 : best_axe.pt </br>
 
 [평가 지표]
 | Model  | Epoch | Precision | Recall | mAP50 | mAP50-95 | Validation Box Loss | Validation Class Loss | Validation DFL Loss |
